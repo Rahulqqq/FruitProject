@@ -1,4 +1,4 @@
-// Do Not Run this code. This is just for understanding.-
+// Do Not Run this code. This is just for understanding.
 const mongoose = require('mongoose');
 
 mongoose.set("strictQuery", false);
