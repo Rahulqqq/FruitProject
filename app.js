@@ -13,7 +13,7 @@ const fruitSchema = new mongoose.Schema({
 
 });
 
-//collection name Fruit
+//collection name Fruit -
 //creating Schema
 const Fruit = mongoose.model("Fruit", fruitSchema);
 
