@@ -29,7 +29,7 @@ fruit.save();
 
 
 
-// 1. Add another fruits to use insertMany. -
+// 1. Add another fruits to use insertMany. 
 
 const mango = new Fruit({
   name : "mango",
